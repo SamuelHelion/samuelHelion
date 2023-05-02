@@ -15,8 +15,6 @@ Olá, eu sou o Samuel Helion 👋
 - ⚡ Fun fact: ...
 -->
 
-<
-
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelhelion&theme=solarized_dark"/3-stats.svg)
