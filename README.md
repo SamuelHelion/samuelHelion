@@ -2,8 +2,11 @@ Olá, eu sou o Samuel Helion 👋
 
 <div>
 <img aling="center" alt="samuel-Python "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img aling="center" alt="samuel-Python "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
-
+<div>
+<img aling="center" alt="samuel-Python "height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
